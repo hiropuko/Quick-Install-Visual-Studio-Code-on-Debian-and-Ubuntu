@@ -19,7 +19,7 @@ Download the script from GitHub.<br>
 <hr>
 
 Adds the right to execute a script.<br>
-Добавляет право на выполнение скрипта.
+Добавляем право на выполнение скрипта.
 <hr>
 <h4>$ sudo chmod +x install_Visual-Studio-Code.sh</h4>
 <hr>
