@@ -18,7 +18,7 @@ Download the script from GitHub.<br>
 <h4>$ sudo wget https://raw.githubusercontent.com/repackScript/Quick-Install-Visual-Studio-Code-on-Debian-and-Ubuntu/main/install_Visual-Studio-Code.sh</h4>
 <hr>
 
-Adds the right to execute a script.<br>
+Add the right to execute the script.<br>
 Добавляем право на выполнение скрипта.
 <hr>
 <h4>$ sudo chmod +x install_Visual-Studio-Code.sh</h4>
